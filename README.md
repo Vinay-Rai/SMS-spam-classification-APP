@@ -14,30 +14,28 @@ allowing users to enter any message and receive instant predictions.
 -   Clean NLP preprocessing pipeline
 -   Interactive web interface using Streamlit
 -   Lightweight and fast prediction system
--   End-to-end ML pipeline from preprocessing to deployment
 
 ------------------------------------------------------------------------
 
 ## 🖥️ App Interface
 
-(Add your application screenshot here)
 
-    ![App Screenshot](screenshot.png)
+
+    ![App Screenshot](app.png)
 
 ------------------------------------------------------------------------
 
 ## 📊 Model Performance
 
--   **Algorithm:** Multinomial Naive Bayes
+-   **Algorithms:** Bernoulli Naive Bayes + Support Vector Machine + ExtraTree Elassifier  using Voting algo.
 -   **Feature Extraction:** TF-IDF Vectorizer
 -   **Problem Type:** Binary Classification (Spam / Not Spam)
 
-(Add your evaluation metrics below)
 
--   Accuracy: XX%
--   Precision: XX%
--   Recall: XX%
--   F1 Score: XX%
+
+-   Accuracy: 0.9845261121856866
+-   Precision: 1.0
+
 
 ------------------------------------------------------------------------
 
@@ -54,7 +52,7 @@ Prediction
 -   Tokenization using NLTK
 -   Remove punctuation and special characters
 -   Remove stopwords
--   Apply stemming using Porter Stemmer
+-   Apply stemming using SnowballStemmer
 
 ### 2. Feature Engineering
 
@@ -62,7 +60,7 @@ Prediction
 
 ### 3. Model Training
 
--   Algorithm: Multinomial Naive Bayes
+-   Algorithm: Bernoulli Naive Bayes
 -   Library: Scikit-learn
 -   Model serialization using Pickle
 
@@ -102,8 +100,8 @@ Prediction
 ### 1. Clone Repository
 
 ``` bash
-git clone https://github.com/your-username/sms-spam-detection.git
-cd sms-spam-detection
+git clone https://github.com/Vinay-Rai/SMS-spam-classification-APP.git
+cd SMS-spam-classification-APP
 ```
 
 ### 2. Install Dependencies
@@ -140,15 +138,8 @@ Application runs at:
 
 ## 🌍 Deployment
 
-The application can be deployed using Streamlit Community Cloud.
+The application is deployed on Streamlit Community Cloud.
 
-### Steps to Deploy:
-
-1.  Push project to GitHub
-2.  Visit https://share.streamlit.io
-3.  Connect your repository
-4.  Select `app.py`
-5.  Deploy the application
 
 ------------------------------------------------------------------------
 
@@ -166,15 +157,13 @@ The application can be deployed using Streamlit Community Cloud.
 
 Vinay\
 - Machine Learning Enthusiast\
-- Interested in NLP and Cybersecurity
+- Interested in NLP and Deep Learning
 
 (Add your GitHub and LinkedIn links)
+Github -- >  https://github.com/Vinay-Rai
 
-------------------------------------------------------------------------
+Linkedin-->  www.linkedin.com/in/vinay-rai-24vr
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ------------------------------------------------------------------------
 
