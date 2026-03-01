@@ -21,7 +21,7 @@ allowing users to enter any message and receive instant predictions.
 
 
 
-    ![App Screenshot](app.png)
+    ![App Screenshot](interface.png)
 
 ------------------------------------------------------------------------
 
