@@ -1,13 +1,3 @@
-import streamlit as st
-import pickle
-import string
-
-from nltk.corpus import stopwords
-
-
-from nltk.stem import SnowballStemmer
-ss = SnowballStemmer('english')
-
 import nltk
 try:
     nltk.data.find("tokenizers/punkt")
@@ -18,6 +8,18 @@ try:
     nltk.data.find("corpora/stopwords")
 except LookupError:
     nltk.download("stopwords")
+
+
+import streamlit as st
+import pickle
+import string
+
+from nltk.corpus import stopwords
+
+
+from nltk.stem import SnowballStemmer
+ss = SnowballStemmer('english')
+
 
 
 
