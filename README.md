@@ -127,7 +127,8 @@ Application runs at:
 ### Spam Messages
 
 -   "Congratulations! You have won ₹10,000. Claim now."
--   "Your loan is approved. Apply immediately."
+-   "Your bank account will be blocked within 24 hours! 
+Verify your details immediately at www.secure-update-login.com"
 
 ### Not Spam Messages
 
