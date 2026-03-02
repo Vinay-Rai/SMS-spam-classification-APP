@@ -155,11 +155,11 @@ The application is deployed on Streamlit Community Cloud.
 
 ## 👨‍💻 Author
 
-Vinay\
+Vinay
 - Machine Learning Enthusiast\
 - Interested in NLP and Deep Learning
 
-(Add your GitHub and LinkedIn links)
+
 Github -- >  https://github.com/Vinay-Rai
 
 Linkedin-->  www.linkedin.com/in/vinay-rai-24vr
