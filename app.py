@@ -1,13 +1,14 @@
 import streamlit as st
 import pickle
 import string
+
 from nltk.corpus import stopwords
-import nltk
+
 
 from nltk.stem import SnowballStemmer
 ss = SnowballStemmer('english')
 
-
+import nltk
 try:
     nltk.data.find("tokenizers/punkt")
 except LookupError:
