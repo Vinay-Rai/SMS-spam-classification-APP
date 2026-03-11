@@ -66,6 +66,8 @@ Prediction
 
 -   Built an interactive web app using Streamlit
 
+    Streamlit App --> https://sms-spam-classification-app-aiml.streamlit.app/
+
 ------------------------------------------------------------------------
 
 ##  Tech Stack
