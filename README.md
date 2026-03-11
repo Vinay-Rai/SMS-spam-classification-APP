@@ -19,9 +19,7 @@ allowing users to enter any message and receive instant predictions.
 
 ## App Interface
 
-
-
-    ![App Interface Image](https://raw.githubusercontent.com/Vinay-Rai/SMS-spam-classification-APP/main/images/interface.png)
+![App Interface Image](images\interface.png)
 
 ------------------------------------------------------------------------
 
