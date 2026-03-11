@@ -1,4 +1,4 @@
-# 📩 SMS Spam Detection App
+#  SMS Spam Detection App
 
 A Machine Learning web application that detects whether an SMS or Email
 message is **Spam** or **Not Spam** using **Natural Language Processing
@@ -8,7 +8,7 @@ allowing users to enter any message and receive instant predictions.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+##  Features
 
 -   Real-time spam detection
 -   Clean NLP preprocessing pipeline
@@ -17,15 +17,15 @@ allowing users to enter any message and receive instant predictions.
 
 ------------------------------------------------------------------------
 
-## 🖥️ App Interface
+## App Interface
 
 
 
-    ![App Screenshot](./images/interface.png)
+    ![App Screenshot](https://github.com/Vinay-Rai/SMS-spam-classification-APP/blob/main/images/interface.png)
 
 ------------------------------------------------------------------------
 
-## 📊 Model Performance
+##  Model Performance
 
 -   **Algorithms:** Bernoulli Naive Bayes + Support Vector Machine + ExtraTree Elassifier  using Voting algo.
 -   **Feature Extraction:** TF-IDF Vectorizer
@@ -39,7 +39,7 @@ allowing users to enter any message and receive instant predictions.
 
 ------------------------------------------------------------------------
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### Pipeline
 
@@ -70,7 +70,7 @@ Prediction
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   Python
 -   Scikit-learn
@@ -82,7 +82,7 @@ Prediction
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+##  Project Structure
 
     SMS-Spam-Detection/
     │
@@ -95,7 +95,7 @@ Prediction
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone Repository
 
@@ -122,7 +122,7 @@ Application runs at:
 
 ------------------------------------------------------------------------
 
-## 💡 Example Messages
+##  Example Messages
 
 ### Spam Messages
 
@@ -137,14 +137,14 @@ Verify your details immediately at www.secure-update-login.com"
 
 ------------------------------------------------------------------------
 
-## 🌍 Deployment
+##  Deployment
 
 The application is deployed on Streamlit Community Cloud.
 
 
 ------------------------------------------------------------------------
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 -   Improve model accuracy using advanced NLP models (Word2Vec, BERT)
 -   Add prediction confidence score
@@ -154,7 +154,7 @@ The application is deployed on Streamlit Community Cloud.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
 Vinay
 - Machine Learning Enthusiast\
@@ -168,7 +168,7 @@ Linkedin-->  www.linkedin.com/in/vinay-rai-24vr
 
 ------------------------------------------------------------------------
 
-## ⭐ Support
+##  Support
 
 If you like this project, please give it a ⭐ on GitHub and share it
 with others!
