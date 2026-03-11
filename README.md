@@ -155,7 +155,7 @@ The application is deployed on Streamlit Community Cloud.
 ##  Author
 
 Vinay
-- Machine Learning Enthusiast\
+- Machine Learning Enthusiast
 - Interested in NLP and Deep Learning
 
 
