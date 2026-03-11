@@ -19,7 +19,7 @@ allowing users to enter any message and receive instant predictions.
 
 ## App Interface
 
-![App Interface Image](images\interface.png)
+![App Interface Image](./images/interface.png)
 
 ------------------------------------------------------------------------
 
